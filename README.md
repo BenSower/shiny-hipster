@@ -1,4 +1,0 @@
-shiny-hipster
-=============
-
-Shiny hipster
