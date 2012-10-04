@@ -1,0 +1,1 @@
+﻿package  {				public class Rock extends Unit{				public function Rock() {			// constructor code		}	}	}
