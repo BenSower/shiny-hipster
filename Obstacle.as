@@ -1,0 +1,1 @@
+﻿package  {		public class Obstacle extends Element{		public function Obstacle() {			// constructor code		}	}	}

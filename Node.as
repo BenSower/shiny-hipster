@@ -1,0 +1,1 @@
+﻿package  {		public class Node {		public var x:int;		public var y:int;		public var cost:int;		public var preNode:Node;		public function Node(x:int, y:int, cost:int, preNode:Node) {			this.x = x;			this.y = y;			this.cost = cost;			this.preNode = preNode;		}				public function toString():String {			return "x:"+x+",y:"+y;		}	}}
