@@ -1,1 +1,1 @@
-﻿package  {		import flash.display.MovieClip;			public class Paper extends Unit {						public function Paper() {			// constructor code		}	}	}
+﻿package  {				public class Paper extends Unit {						public function Paper() {			// constructor code		}	}	}
