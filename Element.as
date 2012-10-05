@@ -1,1 +1,1 @@
-﻿package  {		import flash.display.MovieClip;	public class Element extends MovieClip {		var tile:Tile;		public function Element() {			// constructor code		}				public function walk():void{					}	}	}
+﻿package  {		import flash.display.MovieClip;	public class Element extends MovieClip {		var tile:Tile;		public function Element() {			// constructor code		}				public function walk():void{					}					}	}
