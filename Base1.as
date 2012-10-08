@@ -1,0 +1,1 @@
+﻿package  {	public class Base1 extends Base {						public function Base1() {			// constructor code		}	}	}
