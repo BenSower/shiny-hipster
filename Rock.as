@@ -1,1 +1,1 @@
-﻿package  {		public class Rock extends Unit{				public function Rock() {			// constructor code		}	}	}
+﻿package  {		public class Rock extends Unit{				public function Rock(id:int) {			this.playerId = id;		}	}	}
