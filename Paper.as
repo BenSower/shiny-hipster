@@ -1,1 +1,1 @@
-﻿package  {				public class Paper extends Unit {						public function Paper(id:int) {			this.playerId = id;			this.unitId = 1;		}	}	}
+﻿package  {				public class Paper extends Unit {						public function Paper(id:int) {			this.playerId = id;			this.unitId = 1;			this.scaleX = this.scaleY = 0.5;		}	}	}
