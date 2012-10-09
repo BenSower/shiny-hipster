@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class CreditsButton extends MovieClip {						public function CreditsButton(gx: Number, gy: Number) {			this.x = gx;			this.y = gy;		}	}	}

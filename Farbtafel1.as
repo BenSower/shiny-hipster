@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class Farbtafel1 extends MovieClip {						public function Farbtafel1(gx:Number, gy:Number) {			this.x = gx;			this.y = gy;		}	}	}

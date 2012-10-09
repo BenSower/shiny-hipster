@@ -1,0 +1,1 @@
+﻿package  {	import fl.motion.Color;	import flash.display.MovieClip;		public class StartBaseColor1 extends MovieClip{		public function StartBaseColor1(gx: Number, gy: Number) {			this.x = gx;			this.y = gy;		}				public function setTint(red:int, green:int, blue:int):void{			//todo		}				public function getTint():Color{			//todo			return null;		}	}	}

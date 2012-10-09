@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class StartButton extends MovieClip {						public function StartButton(gx:Number, gy:Number) {			this.x = gx;			this.y = gy;					}	}	}
