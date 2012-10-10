@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.SimpleButton;		public class ScissorInterface extends SimpleButton{		public function ScissorInterface(gx: Number, gy: Number) {			this.x = gx;			this.y = gy;			this.scaleX = this.scaleY = 0.3;		}	}	}

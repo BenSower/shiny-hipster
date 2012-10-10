@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class LightBalken extends MovieClip {		var light:int;						public function LightBalken(gx:Number, gy:Number) {			this.x = gx;			this.y = gy;		}				public function setLightAmount(i:int):void{					}	}	}

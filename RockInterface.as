@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.SimpleButton;		public class RockInterface extends SimpleButton{		public function RockInterface(gx: Number, gy: Number) {			this.x = gx;			this.y = gy;			this.scaleX = this.scaleY = 0.2;		}	}	}

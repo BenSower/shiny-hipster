@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.SimpleButton;		public class PaperInterface extends SimpleButton{		public function PaperInterface(gx: Number, gy: Number) {			this.x = gx;			this.y = gy;			this.scaleX = this.scaleY = 0.3;		}	}	}
