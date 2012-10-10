@@ -1,1 +1,1 @@
-﻿package  {	public class Base1 extends Base {						public function Base1() {			// constructor code		}	}	}
+﻿package  {	import fl.motion.Color;	import flash.display.MovieClip;		public class Base1 extends Base{		public function Base1(gx: Number, gy: Number) {			this.x = gx;			this.y = gy;		}				public function setTint(rgb:uint):void{			//todo		}				public function getTint():Color{			//todo			return null;		}	}	}
