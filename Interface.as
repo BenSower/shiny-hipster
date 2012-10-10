@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class Interface extends MovieClip {				var roundButton: NextRound;				public function Interface(gx: Number, gy: Number) {			this.x = gx;			this.y = gy;			roundButton = new NextRound();			roundButton.x = -50;			roundButton.y = 194;			addChild(roundButton);		}	}	}
