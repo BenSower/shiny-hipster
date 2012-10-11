@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;	import flash.events.MouseEvent;	import flash.events.Event;		public class Options extends MovieClip {		var controller:Controller;				public function Options(c:Controller) {			this.scaleX = this.scaleY = 0.7;			this.controller = c;			addEventListener(MouseEvent.MOUSE_UP, controller.optionsClickHandler);		}	}	}

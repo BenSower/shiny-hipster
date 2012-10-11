@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;	import flash.events.MouseEvent;	import flash.events.Event;	public class Instructions extends MovieClip {		var controller:Controller;				public function Instructions(c:Controller) {			this.controller = c;			addEventListener(MouseEvent.MOUSE_UP, controller.instructionsClickHandler);		}	}	}
