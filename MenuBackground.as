@@ -1,0 +1,1 @@
+﻿package  {		import flash.media.Sound;			public class MenuBackground extends Sound {						public function MenuBackground() {			// constructor code		}	}	}
