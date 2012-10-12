@@ -1,0 +1,1 @@
+﻿package  {		import flash.media.Sound;			public class MenuSelection extends Sound {						public function MenuSelection() {			// constructor code		}	}	}

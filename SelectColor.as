@@ -1,0 +1,1 @@
+﻿package  {		import flash.media.Sound;			public class SelectColor extends Sound {						public function SelectColor() {			// constructor code		}	}	}
