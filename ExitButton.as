@@ -1,1 +1,1 @@
-﻿package  {		import flash.display.SimpleButton;			public class ExitButton extends SimpleButton {						public function ExitButton(gx:int, gy:int) {			this.x = gx;			this.y = gy;		}	}	}
+﻿package  {		import flash.display.SimpleButton;			public class ExitButton extends SimpleButton {						public function ExitButton(gx:int, gy:int) {			this.x = gx;			this.y = gy;			this.scaleX = this.scaleY = 0.8;		}	}	}
