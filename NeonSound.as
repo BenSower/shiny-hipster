@@ -1,0 +1,1 @@
+﻿package  {		import flash.media.Sound;			public class NeonSound extends Sound {						public function NeonSound() {			// constructor code		}	}	}

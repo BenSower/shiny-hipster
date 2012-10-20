@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class ShinyHipster extends MovieClip {						public function ShinyHipster() {			// constructor code		}	}	}

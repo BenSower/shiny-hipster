@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;			public class WinnerAnimation extends MovieClip {						public function WinnerAnimation() {			// constructor code		}	}	}

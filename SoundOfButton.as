@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.SimpleButton;			public class SoundOfButton extends SimpleButton {						public function SoundOfButton() {			// constructor code		}	}	}

@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.SimpleButton;			public class TileButton extends SimpleButton {						public function TileButton() {			// constructor code		}	}	}

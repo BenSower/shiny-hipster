@@ -1,0 +1,21 @@
+-------------------------------------------
+Rock Paper Scissors - shiny-hipsters
+-------------------------------------------
+
+
+- rundenbasiert
+- simples design
+- Ansicht von oben grid
+- Netzwerk --> erstmal ein Rechner
+- bestimmte Schrittanzahl
+
+
+
+---------------
+ERSTE SCHRITTE
+---------------
+
+- Grid 
+- Formen
+
+
